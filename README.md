@@ -315,6 +315,6 @@ FinGuard AI follows explainable AI principles:
 
 B.Tech Computer Science Engineering
 
-GitHub: YOUR_PROFILE_LINK
+GitHub: https://github.com/annantsharmaa
 
-LinkedIn: YOUR_PROFILE_LINK
+LinkedIn: https://www.linkedin.com/in/annant-sharma-6ab9b8334/
