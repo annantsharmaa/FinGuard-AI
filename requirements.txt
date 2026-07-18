@@ -1,0 +1,6 @@
+crewai
+langchain
+requests
+streamlit
+PyPDF2
+python-docx

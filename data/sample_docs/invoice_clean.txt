@@ -1,0 +1,19 @@
+INVOICE
+
+Invoice Number: INV-2026-0451
+Bill To: Meridian Textiles Pvt Ltd
+Vendor Address: 42 Industrial Estate, Sector 18, Gurugram, Haryana, India
+
+GST Number: 07ABCDE1234F1Z5
+
+Subtotal: 100000.00
+Tax: 18000.00
+Total: 118000.00
+
+Payment Terms: Net 30
+
+Description of Goods: Cotton fabric rolls, 500 units
+
+Authorized Signatory: R. Sharma
+Signature: ____________________
+Date: 2026-07-10

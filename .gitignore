@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+finguard.db
+reports/
+.DS_Store

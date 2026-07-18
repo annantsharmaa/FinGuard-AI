@@ -1,0 +1,11 @@
+INVOICE
+
+Bill To: Northline Logistics
+
+Subtotal: 50000.00
+Tax: 9000.00
+Total: 60000.00
+
+Payment Terms: Net 90
+
+Description of Goods: Freight services, June 2026
