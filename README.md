@@ -317,4 +317,4 @@ B.Tech Computer Science Engineering
 
 GitHub: https://github.com/annantsharmaa
 
-LinkedIn: https://www.linkedin.com/in/annant-sharma-6ab9b8334/
+LinkedIn: https://www.linkedin.com/in/annantsharmaa/
